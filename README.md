@@ -67,7 +67,7 @@ private int age;
  ```
 # 六、系统运行截图
 &emsp;&emsp;下图是本实验主程序TestBanking.java的运行结果。
-![avatar](https://github.com/Minomeis/Experiment01/blob/master/img/001.jpg)
+<br>![avatar](https://github.com/songmingyang01/java-1/blob/main/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C%E6%88%AA%E5%9B%BE.png)
 # 七、感想与体会
 &emsp;&emsp;本次实验是我们的第一次上机实验，我认为这个实验总体来说并不算困难。首先是装编译器已及Java。在这上面，虽然看似简单，但是确实也是花费了不少功夫。因为，网站都是英文的，并且还有更新所以老师给的教程可能并不适用，因此，还需要自己花费时间去查找资料，并且克服各种问题，安装成功。
 <br>&emsp;&emsp;对于后续的程序阅读来讲，整体比较简单，但是当到后面，自己去一行一行认真看代码的时候，就能够明显感觉到会有一点点的吃力，会有很多小的细节或者说是单词语句，是我之前为了修改程序通读时所没有注意到的，当然，随着这些问题的出现，我也及时查找了相关资料，也都顺利解决了。
